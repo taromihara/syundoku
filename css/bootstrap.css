@@ -85,12 +85,12 @@
 .back3 {
   background-size: 100%;
   background-repeat: no-repeat;
-  background-image: url(../img/良質な知識テキスト背景.jpg);
+  background-image: url(../img/chishiki_text.jpg);
   font-family:  "HiraMinProN-W6";
   font-size: 2.5vw;
   text-align:center;
   color: #f9fafb;
-  
+  padding: 25px;
 }
 .box-text3 b{
 font-size: 4vw;
