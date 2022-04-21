@@ -49,7 +49,6 @@
 
 .back1{
   background-size: 100%;
-  font-family: "ヒラギノ明朝 ProN W6", "HiraMinProN-W6", "HG明朝E", "ＭＳ Ｐ明朝", "MS PMincho", "MS 明朝", serif;
   background-image: url(../img/_tokuten_text.jpg);
   font-size: 3.5vw;
   text-align:center;
@@ -61,7 +60,6 @@
 
 .back2 {
   background-size: 100%;
-  font-family: "ヒラギノ明朝 ProN W6", "HiraMinProN-W6", "HG明朝E", "ＭＳ Ｐ明朝", "MS PMincho", "MS 明朝", serif;
   background-image: url(../img/_tokuten_text.jpg);
   font-size: 3.5vw;
   text-align:center;
@@ -80,7 +78,6 @@
   font-size: 3vw;
   text-align:center;
   padding:20px 0;
-  font-family: serif;
   color: #f9fafb;
   max-width: 100%;
   height: auto;
@@ -89,10 +86,9 @@
   background-size: 100%;
   background-repeat: no-repeat;
   background-image: url(../img/良質な知識テキスト背景.jpg);
-  font-family: "ヒラギノ明朝 ProN W6", "HiraMinProN-W6", "HG明朝E", "ＭＳ Ｐ明朝", "MS PMincho", "MS 明朝", serif;
+  font-family:  "HiraMinProN-W6";
   font-size: 2.5vw;
   text-align:center;
-  padding:20px 0;
   color: #f9fafb;
   
 }
@@ -106,7 +102,7 @@ font-size: 3vw;
 .box br {
   position: relative;
 }
-.nayami1-text b {
+.nayami1-text span {
   position: relative;
   color: #D6D628;
 }
