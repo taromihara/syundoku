@@ -49,9 +49,9 @@
 
 .back1{
   background-size: 100%;
-  background-repeat: no-repeat;
-  background-image: url(../img/豪華特典テキスト1.jpg);
-  font-size: 2.9vw;
+  
+  background-image: url(../img/tokuten_text2.jpg);
+  font-size: 4vw;
   text-align:center;
   padding:5px 10px;
 }
@@ -78,6 +78,17 @@
   max-width: 100%;
   height: auto;
 }
+.back3 {
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-image: url(../img/良質な知識テキスト背景.jpg);
+  font-family: "ヒラギノ明朝 ProN W6", "HiraMinProN-W6", "HG明朝E", "ＭＳ Ｐ明朝", "MS PMincho", "MS 明朝", serif;
+  font-size: 2.5vw;
+  text-align:center;
+  padding:20px 0;
+  color: #f9fafb;
+  
+}
 .box-text3 b{
 font-size: 4vw;
 color: #D6D62E;
@@ -91,18 +102,6 @@ font-size: 3vw;
 .nayami1-text b {
   position: relative;
   color: #D6D628;
-}
-
-.back3 {
-  background-size: 100%;
-  background-repeat: no-repeat;
-  background-image: url(../img/良質な知識テキスト背景.jpg);
-  font-family: "ヒラギノ明朝 ProN W6", "HiraMinProN-W6", "HG明朝E", "ＭＳ Ｐ明朝", "MS PMincho", "MS 明朝", serif;
-  font-size: 2.5vw;
-  text-align:center;
-  padding:20px 0;
-  color: #f9fafb;
-  
 }
 .introduce {
   background-image: url(../img/講師紹介テキスト背景.jpg);
