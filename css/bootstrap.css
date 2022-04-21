@@ -58,11 +58,6 @@
 .box-taxt1{
   padding: 0px 25px;
 }
-@media only screen and (max-width: 768px) { 　　　　
-  .box-taxt1{
-    padding: 0px 25px;
-  }
-} 
 
 .back2 {
   background-size: 100%;
