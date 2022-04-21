@@ -49,21 +49,33 @@
 
 .back1{
   background-size: 100%;
-  
-  background-image: url(../img/tokuten_text2.jpg);
-  font-size: 4vw;
+  font-family: "ヒラギノ明朝 ProN W6", "HiraMinProN-W6", "HG明朝E", "ＭＳ Ｐ明朝", "MS PMincho", "MS 明朝", serif;
+  background-image: url(../img/_tokuten_text.jpg);
+  font-size: 3.5vw;
   text-align:center;
   padding:5px 10px;
 }
+.box-taxt1{
+  padding: 0px 25px;
+}
+@media only screen and (max-width: 768px) { 　　　　
+  .box-taxt1{
+    padding: 0px 25px;
+  }
+} 
 
 .back2 {
   background-size: 100%;
-  background-repeat: no-repeat;
-  background-image: url(../img/text.jpg);
-  font-size: 2.9vw;
+  font-family: "ヒラギノ明朝 ProN W6", "HiraMinProN-W6", "HG明朝E", "ＭＳ Ｐ明朝", "MS PMincho", "MS 明朝", serif;
+  background-image: url(../img/_tokuten_text.jpg);
+  font-size: 3.5vw;
   text-align:center;
   padding:5px 10px;
 }
+.box-taxt2{
+  padding: 0px 25px;
+}
+
 .nayami1 {
   background-repeat: no-repeat;
   background-image: url(../img/お悩み事例テキスト背景.jpg);
@@ -195,15 +207,15 @@ font-size: 3vw;
     padding-right: 50px;
   }
 } 
-
-.top-left {
+/* pcの時 */
+.top-left {        
   position: absolute;
   top: 1%;
   right: 35%;
   padding-left: 100px;
 }
-
-@media only screen and (max-width: 768px) {
+/* スマホの時 */
+@media only screen and (max-width: 768px) { 　　　　
   .top-left {
     position: absolute;
     top: 1%;
